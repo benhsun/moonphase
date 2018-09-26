@@ -18,7 +18,7 @@ cover: "/assets/images/astronomy-astrophotography-black-207529.jpg"
 
 name: '月球科技'
 author: '月球科技'
-author_image: 
+author_image: "/assets/images/logo.png"
 
 paginate:	5
 
