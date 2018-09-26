@@ -488,7 +488,7 @@ body {
   text-overflow: ellipsis; }
 .post .post-content {
   width: 100%;
-  font-family: Linux Libertine;
+  font-family: Open Sans, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif;
   color: #333; }
   .post .post-content h1, .post .post-content h2, .post .post-content h3 {
     font-family: Open Sans, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif; }
@@ -725,7 +725,8 @@ body {
       text-decoration: none;
       cursor: pointer;
       height: 44px;
-      background: #57ad68;
+      background: black;
+      opacity: 0.9;
       color: #fff;
       vertical-align: middle;
       box-sizing: border-box;
