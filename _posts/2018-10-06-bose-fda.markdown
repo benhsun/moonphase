@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Bose获得FDA认证"
+date:   2018-10-06 20:34:25
+categories: update
+tags: featured
+---
+
+### Bose的用户自定义助听器获得了FDA认证
+
+FDA批准了Bose的可以绕开助听师由用户自行调试的助听器产品。这证实了我们在技术上绕开助听师的可行性，也会为我们获取CFDA认证得到更多帮助。以下是FDA新闻发布的原文。
+
+> The U.S. Food and Drug Administration today allowed marketing of a new device, the Bose Hearing Aid, intended to amplify sounds for individuals 18 years or older with perceived mild to moderate hearing impairment (hearing loss). This is the first hearing aid authorized for marketing by the FDA that enables users to fit, program and control the hearing aid on their own, without assistance from a health care provider.
+
+> “Hearing loss is a significant public health issue, especially as individuals age,” said Malvina Eydelman, M.D., director of the Division of Ophthalmic, and Ear, Nose and Throat Devices at the FDA's Center for Devices and Radiological Health. “Today’s marketing authorization provides certain patients with access to a new hearing aid that provides them with direct control over the fit and functionality of the device. The FDA is committed to ensuring that individuals with hearing loss have options for taking an active role in their health care.”
+
+> Approximately 37.5 million adults aged 18 and over report having some trouble hearing without a hearing aid, ranging from “a little trouble” to “deaf.” Hearing loss can be caused by aging, exposure to loud noises, certain medical conditions and other factors. Hearing loss may be permanent or temporary. Individuals with permanent hearing loss can use hearing aids to help them hear the speech and sounds around them better, enabling them to communicate more effectively with others.
+
+> The Bose Hearing Aid is a user-fitted wireless air conduction hearing aid. Air conduction hearing aids work by capturing sound vibrations through one or more microphones. The signal is processed, amplified, and played back through an earphone placed in the ear canal. Patients can adjust the hearing aid through a mobile application on their phone. This technology enables users to fit the hearing aid settings themselves, in real-time and in real-world environments without the assistance of a health care professional.
+
+> While users may fit, program and control the Bose Hearing Aid on their own, the device must comply with applicable federal and state laws regarding the sale of hearing aids, including state laws that might require hearing aids to be purchased from or dispensed by a licensed hearing aid dispenser. The FDA is in the process of drafting proposed regulations for a new category of over-the-counter hearing aids as required by the FDA Reauthorization Act of 2017.
+
+> In authorizing marketing of the Bose device, the FDA reviewed data from clinical studies of 125 patients, which demonstrated that outcomes with self-fitting of the Bose Hearing Aid are comparable on average to those with professional fitting of the same device with respect to the amount of amplification selected, speech in noise testing and overall benefit. In addition, when participants self-fit the Bose Hearing Aid, they generally preferred those hearing aid settings over the professionally-selected settings. The Bose Hearing Aid has been labeled to inform the consumer when to consult a hearing health care professional.
+
+> The Bose Hearing Aid was reviewed under the FDA’s De Novo premarket review pathway, a regulatory pathway for some low- to moderate-risk devices that are novel and for which there is no prior legally marketed device.
+
+> The FDA granted marketing authorization of the Bose Hearing Aid device to Bose Corporation.
+
+> The FDA, an agency within the U.S. Department of Health and Human Services, protects the public health by assuring the safety, effectiveness, and security of human and veterinary drugs, vaccines and other biological products for human use, and medical devices. The agency also is responsible for the safety and security of our nation’s food supply, cosmetics, dietary supplements, products that give off electronic radiation, and for regulating tobacco products.
+
+
+[jekyll]:      http://jekyllrb.com
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help

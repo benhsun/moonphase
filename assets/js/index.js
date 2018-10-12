@@ -27,3 +27,21 @@
     });
 
 }(jQuery));
+
+function loadPage(pwd) {
+  if (pwd == 'wearablehealth'){
+    var overlay = document.getElementById('overlay');
+    overlay.style.display = 'none';
+  }
+  else {
+		$("#password").attr("placeholder","wrong password");
+		$("#password").val("");
+  }
+}
+
+ 
+$("#loginbutton").on("click", function() {
+	loadPage($("#password").val());
+});
+
+$("#password").focus();
